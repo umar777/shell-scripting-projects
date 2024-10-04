@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This is a script
 
 API_URL="https://api.github.com"
 
